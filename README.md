@@ -2,7 +2,7 @@
 - 🦄 I’m currently working on Fullstack Web Applications and exploring new technologies to create robust and user-friendly solutions.
 - 🤖 I’m currently exploring the world of Large Language Models (LLMs) and diving into Product Analytics to gain deeper insights into user behavior and preferences.
 - 🌱 I’m always on the lookout to collaborate on exciting projects where I can contribute and learn from fellow developers.
-- 🚀 I'm open to collaborations and would love to hear from you if you have any projects or ideas you'd like to discuss or need assistance with.
+- 🚀 I would love to hear from you if you have any projects or ideas you'd like to discuss or need assistance with.
 - 💬 Whether it's about coding, technology, or anything, feel free to ask me anything! I'm here to help and share knowledge.
 
 
